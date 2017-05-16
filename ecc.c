@@ -2,7 +2,7 @@
 #include <stdbool.h>
 #include <assert.h>
 
-#define N 48
+#define N 3
 
 typedef bool CODE[N];
 
