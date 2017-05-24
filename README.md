@@ -9,8 +9,9 @@
 
 The case study uses:
 
-* cbmc 5.7
-* Coq 8.5pl1 (which is now slightly outdated)
+* [cbmc 5.7](http://www.cprover.org/cbmc/)
+* [Coq 8.5](https://coq.inria.fr/coq-85) (which is now slightly outdated)
+* [Ssreflect 1.6](http://math-comp.github.io/math-comp) (an extension to Coq)
 
 ## BUILD
 
