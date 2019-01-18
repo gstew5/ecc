@@ -1,4 +1,4 @@
-# Forward Error Correction Case Study for COUNT2017
+# Forward Error Correction Case Study
 
 ## Files
 
